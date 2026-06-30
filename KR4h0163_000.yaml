@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR4h0163/krp/v1/juan/0
+seq: 0
+front:
+  text: 欽定四庫全書集部八
+  hash: sha256:2ca6b36e125227017052aabb38e83ed63103fdf152cf0be95bdfb58f63de9d79
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4h0163_WYG_000-1a, image: WYG1475/WYG1475-0001a.png}
+body:
+  text: 檇李詩繫總集類提要臣等謹案檇李詩繫四十二卷國朝沈季友撰季友有學古堂詩集已著録是編輯嘉興一郡之詩自漢晉以迄本朝凡縉紳韋布閨秀方外土著流寓有吟咏傳世者皆録之而以仙鬼題咏謡諺附焉姓氏之下又各為小傳略叙梗概其山川古蹟土風物産亦間加附注以備考据初明景泰中嘉興朱翰嘗詮次洪永以來郡人之詩為檇李英華一書所收不盡雅馴崇禎末秀水蔣之翹復續為檇李詩乘其卷帙之富什倍英華而遺稿散佚遂無傳本季友此書踵二家之後而更加詳博殘章賸句搜訪靡遺攟托之勤殊為不茍其間若趙孟堅小傳沿山房隨筆之誤以為卒於元時吳鎮沒於至正間與楊璉真伽時代迥不相及而謂楊發諸墳不及鎮墓此類皆為疏於考核然其甄綜頗備一鄉文獻亦藉以有所徵焉乾隆四十六年五月恭校上總纂官臣紀昀臣陸錫熊臣孫士毅總校官臣陸費墀
+  hash: sha256:688dc170a5495cd9dc21fa6acee96c8f48762720f25bd944045b40dd3d7c3733
+metadata:
+  title: 檇李詩繫
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-25 00:43:49.179491'
+  juan_title: 提要
+  source:
+    repository: kanripo
+    path: KR4h0163/KR4h0163_000.txt
+hash: sha256:9286833c09abb26efacc5c4bf582377b3f6407b4b36949cc6a5cfcc4cea55bcb
